@@ -1,0 +1,810 @@
+# Translation of Plugins - Toolkit for Block Theme (Gutenberg Blocks, Templates, Patterns, Google Fonts) – Twentig - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Toolkit for Block Theme (Gutenberg Blocks, Templates, Patterns, Google Fonts) – Twentig - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-16 17:20:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Toolkit for Block Theme (Gutenberg Blocks, Templates, Patterns, Google Fonts) – Twentig - Stable (latest release)\n"
+
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:53
+msgid "Content (pages, posts, menus, widgets)"
+msgstr "Contenido (páginas, entradas, menús, widgets)"
+
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:58
+msgid "Load"
+msgstr "Cargar"
+
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:52
+msgid "All"
+msgstr "Todo"
+
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:46
+msgid "Import Type"
+msgstr "Tipo de importación"
+
+#: inc/classic/theme-tools/class-twentig-customize-font-presets-control.php:29
+msgid "Presets"
+msgstr "Preajustes"
+
+#: inc/classic/theme-tools/class-twentig-customize-font-presets-control.php:30
+msgid "Choosing a preset will override all the font settings."
+msgstr "La elección de un preajuste anulará todos los ajustes de la fuente."
+
+#: inc/classic/theme-tools/class-twentig-customize-font-presets-control.php:35
+msgid "View Presets"
+msgstr "Ver los preajustes"
+
+#: inc/classic/twentytwenty/customizer.php:2167
+msgid "Social Icons Locations"
+msgstr "Ubicaciones de los iconos sociales"
+
+#: inc/classic/twentytwenty/customizer.php:2048
+msgid "Elements Style"
+msgstr "Estilos de los elementos"
+
+#: inc/classic/twentytwenty/customizer.php:2007 dist/index.js:2
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/classic/twentytwenty/customizer.php:1836
+#: inc/classic/twentytwentyone/customizer.php:1906
+msgid "Featured Image Aspect Ratio"
+msgstr "Relación de aspecto de la imagen destacada"
+
+#: inc/classic/twentytwenty/customizer.php:1721
+#: inc/classic/twentytwentyone/customizer.php:1762
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: inc/classic/twentytwenty/customizer.php:1673
+#: inc/classic/twentytwentyone/customizer.php:1697
+msgid "Custom 404 Page"
+msgstr "Página 404 personalizada"
+
+#: inc/classic/twentytwenty/customizer.php:1606
+#: inc/classic/twentytwenty/customizer.php:1932
+#: inc/classic/twentytwentyone/customizer.php:1551
+#: inc/classic/twentytwentyone/customizer.php:2146
+msgid "No Image"
+msgstr "Sin imagen"
+
+#: inc/classic/twentytwenty/customizer.php:1599
+#: inc/classic/twentytwenty/customizer.php:1925
+#: inc/classic/twentytwentyone/customizer.php:1544
+#: inc/classic/twentytwentyone/customizer.php:2139
+msgid "Featured Image Layout"
+msgstr "Diseño de la imagen destacada"
+
+#: inc/classic/twentytwenty/customizer.php:1582
+#: inc/classic/twentytwentyone/customizer.php:1527
+msgid "Standard Pages"
+msgstr "Páginas estándar"
+
+#: inc/classic/twentytwenty/customizer.php:1295
+#: inc/classic/twentytwenty/customizer.php:1552
+#: inc/classic/twentytwenty/customizer.php:2143
+msgid "Social Icons"
+msgstr "Iconos sociales"
+
+#: inc/block-styles.php:15 inc/block-styles.php:65 inc/block-styles.php:90
+#: inc/block-styles.php:140 inc/block-styles.php:509
+#: inc/classic/twentytwenty/customizer.php:1153
+#: inc/classic/twentytwentyone/customizer.php:1063 dist/index.js:1
+msgid "Shadow"
+msgstr "Sombra"
+
+#: inc/classic/twentytwenty/customizer.php:1147
+#: inc/classic/twentytwentyone/customizer.php:1057
+msgid "Header Decoration"
+msgstr "Decoración de la cabecera"
+
+#: inc/classic/twentytwenty/customizer.php:1130
+#: inc/classic/twentytwentyone/customizer.php:1040
+msgid "Sticky Header"
+msgstr "Cabecera fija"
+
+#: inc/classic/twentytwenty/customizer.php:1084
+#: inc/classic/twentytwentyone/customizer.php:971
+msgid "Header Layout"
+msgstr "Diseño de la cabecera"
+
+#: inc/classic/twentytwenty/customizer.php:139
+msgid "Caution: make sure that the color is accessible throughout the site (header, content, footer)."
+msgstr "Precaución: asegúrate de que el color sea accesible en todo el sitio (cabecera, contenido, pie de página)."
+
+#: inc/classic/theme-tools/class-twentig-customize-dropdown-pages-private-control.php:39
+#: inc/classic/theme-tools/class-twentig-customize-dropdown-reusable-blocks-control.php:47
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:40
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Seleccionar &mdash;"
+
+#: inc/classic/twentytwenty/template-tags.php:824
+msgid "Social links"
+msgstr "Enlaces sociales"
+
+#: inc/classic/theme-tools/404.php:70
+#: inc/classic/twentytwenty/customizer.php:1653
+#: inc/classic/twentytwentyone/customizer.php:1677
+msgid "404 Page"
+msgstr "Página 404"
+
+#: inc/classic/theme-tools/404.php:31
+msgid "Page not found"
+msgstr "Página no encontrada"
+
+#: inc/classic/twentytwenty/template-tags.php:883
+msgid "Powered by WordPress"
+msgstr "Funciona con WordPress"
+
+#: inc/classic/twentytwenty/customizer.php:123
+msgid "Custom Hue"
+msgstr "Tono personalizado"
+
+#: inc/block-styles.php:337
+msgid "Stack"
+msgstr "Apilar"
+
+#: inc/classic/twentytwenty/customizer.php:1760
+#: inc/classic/twentytwentyone/customizer.php:1958
+msgid "Display post content"
+msgstr "Mostrar el contenido de la entrada"
+
+#: inc/classic/twentytwenty/customizer.php:2170
+msgid "Desktop Horizontal Menu"
+msgstr "Menú horizontal en escritorio"
+
+#: inc/classic/twentytwenty/customizer.php:1675
+#: inc/classic/twentytwentyone/customizer.php:1699
+msgid "To set a 404 page, you’ll first need to create a private page (to prevent search engines from indexing this page)."
+msgstr "Para establecer una página 404, primero tienes que crear una página privada (para evitar que los motores de búsqueda indexen esta página)."
+
+#. translators: link to theme options panel
+#: inc/classic/twentytwenty/customizer.php:1765
+msgid "Set the post content in the <a href=\"%s\">Theme Options panel</a>."
+msgstr "Establece el contenido de la entrada en el <a href=\"%s\">panel de opciones del tema</a>."
+
+#: inc/classic/twentytwenty/customizer.php:354
+#: inc/classic/twentytwentyone/customizer.php:1595
+#: inc/classic/twentytwentyone/customizer.php:1889
+#: inc/classic/twentytwentyone/customizer.php:2190
+msgid "Text Width"
+msgstr "Ancho del texto"
+
+#: inc/classic/twentytwenty/customizer.php:337
+#: inc/classic/twentytwentyone/customizer.php:292
+msgid "Site Layout"
+msgstr "Diseño del sitio"
+
+#: inc/classic/twentytwentyone/customizer.php:1890
+msgid "Wide"
+msgstr "Amplio"
+
+#: inc/about.php:324 inc/classic/twentytwenty/customizer.php:2244
+#: inc/classic/twentytwentyone/customizer.php:2607
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: inc/classic/twentytwenty/customizer.php:1504
+#: inc/classic/twentytwentyone/customizer.php:1335
+msgid "Credit"
+msgstr "Agradecimientos"
+
+#: inc/classic/twentytwenty/customizer.php:1430
+msgid "Styles"
+msgstr "Estilos"
+
+#: inc/classic/twentytwenty/customizer.php:1414
+#: inc/classic/twentytwentyone/customizer.php:1314
+msgid "Footer Width"
+msgstr "Ancho del pie de página"
+
+#: inc/classic/twentytwenty/customizer.php:1397
+msgid "Row"
+msgstr "Fila"
+
+#: inc/classic/twentytwenty/customizer.php:1396
+msgid "Column (default)"
+msgstr "Columna (por defecto)"
+
+#: inc/classic/twentytwentyone/customizer.php:1274
+msgid "Hidden"
+msgstr "Oculto"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://twentig.com"
+msgstr "https://twentig.com"
+
+#: inc/classic/twentytwenty/customizer.php:1342
+msgid "Bottom Footer Layout"
+msgstr "Diseño del pie de página inferior"
+
+#: inc/classic/twentytwenty/customizer.php:1392
+msgid "Widgets Layout"
+msgstr "Diseño de los widgets"
+
+#: inc/classic/twentytwenty/customizer.php:1399
+msgid "For Row layout, Footer #1 area is above Footer #2 area, and the widgets are displayed inline inside each area."
+msgstr "Para el diseño de fila, el área del pie de página #1 está por encima del área del pie de página #2 y los widgets se muestran integrados dentro de cada área."
+
+#: inc/block-styles.php:355 inc/block-styles.php:373 inc/block-styles.php:439
+#: inc/block-styles.php:455
+msgid "Pill"
+msgstr "Píldora"
+
+#: inc/classic/twentytwenty/customizer.php:2088
+#: inc/classic/twentytwentyone/customizer.php:2495
+msgid "Button Shape"
+msgstr "Forma del botón"
+
+#: inc/block-styles.php:316 inc/block-styles.php:423 inc/block-styles.php:447
+#: inc/block-styles.php:463 inc/classic/twentytwenty/customizer.php:1845
+#: inc/classic/twentytwentyone/customizer.php:1915 dist/index.js:1
+msgid "Square"
+msgstr "Cuadrado"
+
+#: inc/block-styles.php:41 inc/block-styles.php:124 inc/block-styles.php:324
+#: dist/index.js:1
+msgid "Rounded"
+msgstr "Redondeado"
+
+#: inc/classic/twentytwenty/customizer.php:2002
+#: inc/classic/twentytwentyone/customizer.php:2342 dist/index.js:2
+msgid "Navigation"
+msgstr "Navegación"
+
+#: inc/classic/twentytwenty/customizer.php:1470
+msgid "Footer Link Color"
+msgstr "Color del enlace del pie de página"
+
+#: inc/block-styles.php:215 inc/block-styles.php:281
+#: inc/classic/twentytwenty/customizer.php:1152
+#: inc/classic/twentytwenty/customizer.php:1236
+#: inc/classic/twentytwentyone/customizer.php:1062
+#: inc/classic/twentytwentyone/customizer.php:1145 dist/index.js:1
+msgid "Border"
+msgstr "Borde"
+
+#: inc/classic/twentytwenty/customizer.php:1006
+#: inc/classic/twentytwentyone/customizer.php:894
+msgid "Menu Text Transform"
+msgstr "Transformación del texto del menú"
+
+#: inc/classic/twentytwenty/customizer.php:983
+msgid "Menu Font Size"
+msgstr "Tamaño de la fuente del menú"
+
+#: inc/classic/twentytwenty/customizer.php:962
+#: inc/classic/twentytwentyone/customizer.php:826
+msgid "Menu Font Weight"
+msgstr "Peso de la fuente del menú"
+
+#: inc/classic/twentytwenty/customizer.php:940
+#: inc/classic/twentytwentyone/customizer.php:804
+msgid "Menu Font"
+msgstr "Fuente del menú"
+
+#: inc/classic/twentytwenty/customizer.php:921
+#: inc/classic/twentytwenty/customizer.php:1163
+#: inc/classic/twentytwentyone/customizer.php:1095
+msgid "Menu"
+msgstr "Menú"
+
+#: inc/classic/twentytwenty/customizer.php:911
+#: inc/classic/twentytwenty/customizer.php:1013
+#: inc/classic/twentytwentyone/customizer.php:775
+#: inc/classic/twentytwentyone/customizer.php:901
+msgid "Capitalize"
+msgstr "Capitalizar"
+
+#: inc/classic/twentytwenty/customizer.php:910
+#: inc/classic/twentytwenty/customizer.php:1012
+#: inc/classic/twentytwentyone/customizer.php:774
+#: inc/classic/twentytwentyone/customizer.php:900
+msgid "Lowercase"
+msgstr "Minúsculas"
+
+#: inc/classic/twentytwenty/customizer.php:909
+#: inc/classic/twentytwenty/customizer.php:1011
+#: inc/classic/twentytwentyone/customizer.php:773
+#: inc/classic/twentytwentyone/customizer.php:899
+#: inc/classic/twentytwentyone/customizer.php:2544
+msgid "Uppercase"
+msgstr "Mayúsculas"
+
+#: inc/classic/twentytwentyone/customizer.php:1146 dist/index.js:1
+msgid "None"
+msgstr "Ninguna"
+
+#: inc/classic/twentytwenty/customizer.php:699
+msgid "Secondary Font"
+msgstr "Fuente secundaria"
+
+#: inc/classic/twentytwenty/customizer.php:394
+#: inc/classic/twentytwentyone/customizer.php:183
+#: inc/classic/twentytwentyone/customizer.php:400
+msgid "Body"
+msgstr "Cuerpo"
+
+#: inc/about.php:178 inc/classic/twentytwenty/customizer.php:372
+#: inc/classic/twentytwentyone/customizer.php:378
+msgid "Fonts"
+msgstr "Fuentes"
+
+#: inc/classic/twentytwenty/customizer.php:528
+#: inc/classic/twentytwentyone/customizer.php:488
+msgid "Headings"
+msgstr "Encabezados"
+
+#: inc/classic/twentytwenty/customizer.php:715
+#: inc/classic/twentytwentyone/customizer.php:630
+msgid "Site Title"
+msgstr "Título del sitio"
+
+#: inc/classic/twentytwenty/customizer.php:2025
+#: inc/classic/twentytwentyone/customizer.php:2364
+msgid "Display comments section"
+msgstr "Mostrar la sección de comentarios"
+
+#: inc/classic/twentytwenty/customizer.php:1898
+msgid "Display meta icons"
+msgstr "Mostrar iconos meta"
+
+#: inc/classic/twentytwenty/customizer.php:1186
+#: inc/classic/twentytwentyone/customizer.php:1118
+msgid "Menu Item Spacing"
+msgstr "Espaciado de elementos del menú"
+
+#. translators: link to fonts panel
+#: inc/classic/twentytwenty/customizer.php:1167
+#: inc/classic/twentytwentyone/customizer.php:1099
+msgid "Visit the <a href=\"%s\">Fonts panel</a> to set the menu font."
+msgstr "Visita el <a href=\"%s\">panel de fuentes</a> para configurar la fuente del menú."
+
+#: inc/classic/twentytwenty/customizer.php:904
+#: inc/classic/twentytwentyone/customizer.php:768
+msgid "Site Title Text Transform"
+msgstr "Transformación del texto del título del sitio"
+
+#: inc/classic/twentytwenty/customizer.php:882
+#: inc/classic/twentytwentyone/customizer.php:745
+msgid "Site Title Letter Spacing"
+msgstr "Espaciado de letras del título del sitio"
+
+#: inc/classic/twentytwenty/customizer.php:835
+#: inc/classic/twentytwentyone/customizer.php:696
+msgid "Site Title Font Size (px)"
+msgstr "Tamaño de fuente del título del sitio (px)"
+
+#: inc/classic/twentytwenty/customizer.php:680
+#: inc/classic/twentytwentyone/customizer.php:595
+msgid "Secondary Elements"
+msgstr "Elementos secundarios"
+
+#: inc/classic/twentytwenty/customizer.php:642
+#: inc/classic/twentytwentyone/customizer.php:554
+msgid "Headings Letter Spacing"
+msgstr "Espaciado de las letras de los encabezados"
+
+#: inc/classic/twentytwenty/customizer.php:624
+#: inc/classic/twentytwentyone/customizer.php:533
+msgid "Headings Font Weight"
+msgstr "Peso de la fuente de los encabezados"
+
+#: inc/classic/twentytwenty/customizer.php:548
+#: inc/classic/twentytwenty/customizer.php:704
+#: inc/classic/twentytwenty/customizer.php:945
+#: inc/classic/twentytwentyone/customizer.php:508
+#: inc/classic/twentytwentyone/customizer.php:619
+#: inc/classic/twentytwentyone/customizer.php:654
+#: inc/classic/twentytwentyone/customizer.php:809
+msgid "Headings Font"
+msgstr "Fuente de los encabezados"
+
+#: inc/classic/twentytwenty/customizer.php:512
+#: inc/classic/twentytwentyone/customizer.php:472
+msgid "Body Line Height"
+msgstr "Altura de la línea del cuerpo"
+
+#: inc/classic/twentytwenty/customizer.php:490
+msgid "Body Font Size"
+msgstr "Tamaño de la fuente del cuerpo"
+
+#: inc/classic/twentytwenty/customizer.php:206
+msgid "Apply a custom color to the footer."
+msgstr "Aplica un color personalizado al pie de página."
+
+#: inc/classic/twentytwenty/customizer.php:205
+msgid "Footer Background Color"
+msgstr "Color de fondo del pie de página"
+
+#: inc/classic/twentytwenty/customizer.php:151
+msgid "Twentig Colors"
+msgstr "Colores de Twentig"
+
+#: inc/classic/twentytwenty/customizer.php:1066
+#: inc/classic/twentytwenty/customizer.php:1325
+#: inc/classic/twentytwentyone/customizer.php:954 dist/index.js:1
+msgid "Layout"
+msgstr "Diseño"
+
+#: inc/classic/twentytwenty/customizer.php:1284
+msgid "Display label for menu and search buttons"
+msgstr "Mostrar la etiqueta para el menú y los botones de búsqueda"
+
+#: inc/classic/twentytwenty/customizer.php:718
+msgid "As you’ve selected an image for the Logo, font settings for the Site Title are unavailable."
+msgstr "Como has seleccionado una imagen para el logotipo, no están disponibles los ajustes de las fuentes para título del sitio."
+
+#: inc/classic/twentytwenty/customizer.php:177
+msgid "Apply “Background Color” to the page title section"
+msgstr "Aplicar un «Color de fondo» a la sección del título de la página"
+
+#: inc/classic/twentytwenty/customizer.php:706
+msgid "Applies to meta, footer, button, caption, input…"
+msgstr "Se aplica a meta, pie de página, botones, leyendas, entradas..."
+
+#: inc/classic/twentytwentyone/customizer.php:1616
+#: inc/classic/twentytwentyone/customizer.php:2021
+#: inc/classic/twentytwentyone/customizer.php:2211
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/classic/twentytwenty/templates/template-cover.php:98
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/about.php:203 inc/classic/twentytwenty/templates/template-cover.php:98
+#: inc/classic/twentytwentyone/customizer.php:2421
+#: inc/classic/twentytwentyone/template-tags.php:71
+#: inc/classic/twentytwentyone/templates/tw-header-transparent-light.php:22
+#: inc/classic/twentytwentyone/templates/tw-header-transparent.php:22
+#: inc/classic/twentytwentyone/templates/tw-no-header-footer.php:38
+#: inc/classic/twentytwentyone/templates/tw-no-title.php:22
+msgid "Page"
+msgstr "Página"
+
+#: inc/classic/twentytwenty/templates/template-cover.php:75
+msgid "Scroll Down"
+msgstr "Scroll hacia abajo"
+
+#: inc/classic/twentytwenty/customizer.php:1820
+#: inc/classic/twentytwentyone/customizer.php:1846
+msgid "Display featured image"
+msgstr "Mostrar la imagen destacada"
+
+#: inc/classic/twentytwenty/customizer.php:1781
+#: inc/classic/twentytwentyone/customizer.php:1979
+msgid "Excerpt Length (words)"
+msgstr "Longitud del extracto (palabras)"
+
+#: inc/classic/twentytwenty/customizer.php:1530
+#: inc/classic/twentytwentyone/customizer.php:1360
+msgid "To automatically display the current year, insert <code>[Y]</code>"
+msgstr "Para mostrar automáticamente el año actual inserta <code>[Y]</code>"
+
+#: inc/classic/twentytwenty/customizer.php:1266
+msgid "Replace the menu icon (horizontal dots) with a hamburger icon"
+msgstr "Reemplazar el icono del menú (puntos horizontales) por un icono de hamburguesa"
+
+#. translators: %s: HTML character for up arrow
+#: inc/classic/twentytwenty/template-tags.php:723
+msgid "Up %s"
+msgstr "Subir %s"
+
+#. translators: %s: HTML character for up arrow
+#: inc/classic/twentytwenty/template-tags.php:717
+msgid "To the top %s"
+msgstr "Subir arriba %s"
+
+#. translators: Copyright date format, see https://secure.php.net/date
+#: inc/classic/twentytwenty/template-tags.php:873
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/about.php:193 inc/classic/twentytwenty/customizer.php:1314
+#: inc/classic/twentytwenty/customizer.php:2173
+#: inc/classic/twentytwenty/template-tags.php:796
+#: inc/classic/twentytwentyone/customizer.php:204
+#: inc/classic/twentytwentyone/customizer.php:1238
+#: inc/classic/twentytwentyone/customizer.php:1249
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/classic/twentytwenty/customizer.php:1486
+msgid "Footer Credit"
+msgstr "Agradecimientos en el pie de página"
+
+#: inc/classic/twentytwenty/customizer.php:1509
+msgid "Copyright Only"
+msgstr "Solo el copyright"
+
+#: inc/classic/twentytwenty/template-tags.php:26
+msgid "Continue reading"
+msgstr "Sigue leyendo"
+
+#: inc/classic/twentytwenty/block-editor.php:209
+msgctxt "Name of the medium font size in the block editor"
+msgid "Medium"
+msgstr "Medio"
+
+#: inc/classic/twentytwenty/customizer.php:2195
+msgid "Logos Only"
+msgstr "Solo logotipos"
+
+#: inc/classic/twentytwenty/customizer.php:2190
+msgid "Social Icons Style"
+msgstr "Estilo de los iconos sociales"
+
+#: inc/classic/twentytwenty/customizer.php:1237
+#: inc/classic/twentytwenty/customizer.php:2115
+msgid "Color"
+msgstr "Color"
+
+#: inc/block-styles.php:473 dist/index.js:1
+msgid "Underline"
+msgstr "Subrayado"
+
+#: inc/classic/twentytwentyone/customizer.php:1804
+#: inc/classic/twentytwentyone/customizer.php:2089
+msgid "Minimal"
+msgstr "Minimalista"
+
+#: inc/classic/twentytwenty/customizer.php:2066
+msgid "Separator Style"
+msgstr "Estilo del separador"
+
+#: inc/classic/twentytwenty/customizer.php:2037
+msgid "Additional Settings"
+msgstr "Ajustes adicionales"
+
+#: inc/classic/twentytwenty/customizer.php:1908
+#: inc/classic/twentytwentyone/customizer.php:2100
+msgid "Single Post"
+msgstr "Entrada individual"
+
+#: inc/classic/twentytwenty/customizer.php:1879
+#: inc/classic/twentytwenty/customizer.php:1986
+#: inc/classic/twentytwentyone/customizer.php:2050
+#: inc/classic/twentytwentyone/customizer.php:2295
+#: inc/classic/twentytwentyone/customizer.php:2326
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: inc/classic/twentytwenty/customizer.php:1877
+#: inc/classic/twentytwenty/customizer.php:1984
+#: inc/classic/twentytwentyone/customizer.php:2049
+#: inc/classic/twentytwentyone/customizer.php:2294
+#: inc/classic/twentytwentyone/customizer.php:2325 inc/patterns/query.php:34
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/classic/twentytwenty/customizer.php:1876
+#: inc/classic/twentytwenty/customizer.php:1983
+#: inc/classic/twentytwentyone/customizer.php:2047
+#: inc/classic/twentytwentyone/customizer.php:2292
+#: inc/classic/twentytwentyone/customizer.php:2323
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/classic/twentytwenty/customizer.php:1875
+#: inc/classic/twentytwenty/customizer.php:1982
+#: inc/classic/twentytwentyone/customizer.php:2048
+#: inc/classic/twentytwentyone/customizer.php:2293
+#: inc/classic/twentytwentyone/customizer.php:2324
+msgid "Author"
+msgstr "Autor"
+
+#: inc/classic/twentytwenty/customizer.php:1871
+#: inc/classic/twentytwenty/customizer.php:1978
+#: inc/classic/twentytwentyone/customizer.php:2044
+msgid "Post Meta"
+msgstr "Metadatos de la entrada"
+
+#: inc/classic/twentytwenty/customizer.php:1715
+#: inc/classic/twentytwentyone/customizer.php:1757
+msgid "Blog Layout"
+msgstr "Estructura del blog"
+
+#: inc/about.php:198 inc/classic/twentytwenty/customizer.php:1687
+#: inc/classic/twentytwentyone/customizer.php:1667
+#: inc/classic/twentytwentyone/customizer.php:1711
+#: inc/classic/twentytwentyone/customizer.php:2400
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/classic/twentytwenty/customizer.php:1571
+#: inc/classic/twentytwentyone/customizer.php:1516
+msgctxt "Customizer Section Title"
+msgid "Page"
+msgstr "Página"
+
+#: inc/classic/twentytwenty/customizer.php:1214
+#: inc/classic/twentytwenty/customizer.php:1476
+#: inc/classic/twentytwentyone/customizer.php:186
+#: inc/classic/twentytwentyone/customizer.php:193
+#: inc/classic/twentytwentyone/customizer.php:208
+#: inc/classic/twentytwentyone/customizer.php:215
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: inc/classic/twentytwenty/customizer.php:1213
+#: inc/classic/twentytwenty/customizer.php:1475
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+#: inc/classic/twentytwenty/customizer.php:1212
+#: inc/classic/twentytwenty/customizer.php:1474
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: inc/about.php:188 inc/classic/twentytwenty/customizer.php:1055
+#: inc/classic/twentytwentyone/customizer.php:196
+#: inc/classic/twentytwentyone/customizer.php:943
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/classic/twentytwentyone/customizer.php:2523 dist/index.js:1
+msgid "Large"
+msgstr "Grande"
+
+#: inc/classic/twentytwentyone/customizer.php:2521 dist/index.js:1
+msgid "Small"
+msgstr "Pequeño"
+
+#: inc/classic/twentytwenty/customizer.php:414
+#: inc/classic/twentytwenty/customizer.php:703
+#: inc/classic/twentytwenty/customizer.php:944
+#: inc/classic/twentytwentyone/customizer.php:420
+#: inc/classic/twentytwentyone/customizer.php:618
+#: inc/classic/twentytwentyone/customizer.php:808
+msgid "Body Font"
+msgstr "Fuente del cuerpo"
+
+#: inc/classic/twentytwentyone/customizer.php:1938
+#: inc/classic/twentytwentyone/customizer.php:2522 dist/index.js:1
+msgid "Medium"
+msgstr "Medio"
+
+#: inc/classic/twentytwenty/customizer.php:253
+msgid "Bottom"
+msgstr "Inferior"
+
+#: inc/classic/twentytwenty/customizer.php:252
+msgid "Middle"
+msgstr "Medio"
+
+#: inc/classic/twentytwenty/customizer.php:248
+msgid "Content Vertical Alignment"
+msgstr "Alineación vertical del contenido"
+
+#: inc/about.php:33 inc/about.php:351
+#: inc/classic/twentytwenty/customizer.php:230
+msgid "Twentig Settings"
+msgstr "Ajustes de Twentig"
+
+#: inc/classic/twentytwenty/customizer.php:84
+msgid "Display Tagline"
+msgstr "Mostrar la descripción corta"
+
+#: inc/classic/twentytwenty/customizer.php:67
+#: inc/classic/twentytwentyone/customizer.php:68
+msgid "Choose logo"
+msgstr "Elegir el logotipo"
+
+#: inc/classic/twentytwenty/customizer.php:65
+#: inc/classic/twentytwentyone/customizer.php:66
+msgid "No logo selected"
+msgstr "No se ha seleccionado un logotipo"
+
+#: inc/classic/twentytwenty/customizer.php:64
+#: inc/classic/twentytwenty/customizer.php:122
+#: inc/classic/twentytwenty/customizer.php:1088
+#: inc/classic/twentytwenty/customizer.php:1346
+#: inc/classic/twentytwenty/customizer.php:1508
+#: inc/classic/twentytwenty/customizer.php:1603
+#: inc/classic/twentytwenty/customizer.php:1642
+#: inc/classic/twentytwenty/customizer.php:1719
+#: inc/classic/twentytwenty/customizer.php:1929
+#: inc/classic/twentytwenty/customizer.php:2006
+#: inc/classic/twentytwenty/customizer.php:2070
+#: inc/classic/twentytwenty/customizer.php:2194
+#: inc/classic/twentytwenty/customizer.php:2555
+#: inc/classic/twentytwenty/font.php:742
+#: inc/classic/twentytwentyone/customizer.php:65
+#: inc/classic/twentytwentyone/customizer.php:975
+#: inc/classic/twentytwentyone/customizer.php:1144
+#: inc/classic/twentytwentyone/customizer.php:1270
+#: inc/classic/twentytwentyone/customizer.php:1339
+#: inc/classic/twentytwentyone/customizer.php:1548
+#: inc/classic/twentytwentyone/customizer.php:1666
+#: inc/classic/twentytwentyone/customizer.php:1937
+#: inc/classic/twentytwentyone/customizer.php:2088
+#: inc/classic/twentytwentyone/customizer.php:2143
+#: inc/classic/twentytwentyone/customizer.php:2346
+#: inc/classic/twentytwentyone/customizer.php:2399
+#: inc/classic/twentytwentyone/customizer.php:2419
+#: inc/classic/twentytwentyone/customizer.php:3124
+#: inc/classic/twentytwentyone/font.php:320 dist/index.js:1
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/classic/twentytwenty/customizer.php:63
+#: inc/classic/twentytwentyone/customizer.php:64
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/classic/twentytwenty/customizer.php:62
+#: inc/classic/twentytwentyone/customizer.php:63
+msgid "Change logo"
+msgstr "Cambiar el logotipo"
+
+#: inc/classic/twentytwenty/customizer.php:61
+#: inc/classic/twentytwenty/customizer.php:66
+#: inc/classic/twentytwentyone/customizer.php:62
+#: inc/classic/twentytwentyone/customizer.php:67
+msgid "Select logo"
+msgstr "Seleccionar el logotipo"
+
+#: inc/classic/twentytwenty/customizer.php:53
+msgid "Transparent Header Logo"
+msgstr "Logotipo de la cabecera transparente"
+
+#: inc/classic/twentytwenty/customizer.php:2110
+msgid "Button Hover Style"
+msgstr "Estilo del botón al pasar el cursor"
+
+#: inc/classic/twentytwenty/customizer.php:1953
+#: inc/classic/twentytwentyone/customizer.php:2252
+msgid "Display manual excerpt below the title"
+msgstr "Muestra el extracto manual debajo del título"
+
+#: inc/classic/twentytwenty/customizer.php:1638
+#: inc/classic/twentytwentyone/customizer.php:1662
+msgid "Search Results Layout"
+msgstr "Diseño de los resultados de búsqueda"
+
+#: inc/classic/twentytwenty/customizer.php:1208
+msgid "Menu Link Color"
+msgstr "Color del enlace del menú"
+
+#: inc/classic/twentytwenty/customizer.php:1107
+#: inc/classic/twentytwentyone/customizer.php:995
+msgid "Header Width"
+msgstr "Ancho de la cabecera"
+
+#: inc/classic/twentytwenty/customizer.php:663
+msgid "Heading 1 Font Size"
+msgstr "Tamaño de fuente del encabezado 1"
+
+#: inc/classic/twentytwenty/customizer.php:418
+#: inc/classic/twentytwenty/customizer.php:552
+#: inc/classic/twentytwenty/customizer.php:740
+#: inc/classic/twentytwentyone/customizer.php:423
+#: inc/classic/twentytwentyone/customizer.php:511
+#: inc/classic/twentytwentyone/customizer.php:653
+msgid "Default Theme Font"
+msgstr "Fuente del tema por defecto"
+
+#: inc/classic/twentytwenty/customizer.php:308
+msgid "Post Cover Height"
+msgstr "Altura de la entrada de portada"
+
+#: inc/classic/twentytwenty/customizer.php:269
+msgid "Page Cover Height"
+msgstr "Altura de la página de portada"
+
+#: inc/classic/twentytwenty/customizer.php:1802
+#: inc/classic/twentytwentyone/customizer.php:2000
+msgid "Display “Continue reading”"
+msgstr "Mostrar «Seguir leyendo»"
+
+#. Plugin Name of the plugin
+msgid "Twentig"
+msgstr "Twentig"
